@@ -18,4 +18,6 @@ Product Manager is a simple Python application designed to manage product detail
 1. Clone the repository:
    ```bash
    git clone https://github.com/Omadzelevan/Product-Manager.git
+   ```bash
+    python Python.py
 
